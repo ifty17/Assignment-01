@@ -1,0 +1,124 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;   
+}
+.top-h1{
+    color: #ffffff;
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(tomato,tomato);
+    padding: 20px 40px;
+    border-radius: 10px;
+    
+}
+.top-para{
+    padding-bottom: 40px;
+    color: white;
+   
+}
+.top-banner{
+    background: url(donate-today-main/images/donation9.jpg) ;
+    background-position: center;
+    background-size: cover;
+}
+
+.top-donation-area{
+    text-align: center;
+    padding: 100px;
+    margin: auto;
+}
+.second-donation-area{
+    text-align: center;
+    padding-top:100px ;
+    padding-bottom:25px ;
+}
+.second-Darea-h1{
+    font-size: 50px;
+}
+.flexible-container{
+        width: 100%;
+        padding: 1%;
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 5%;   
+}
+.D-amount{
+    background-image: linear-gradient(#dadada,#dadada);
+    padding: 30px;
+    border-radius: 5px;
+}
+.D-amount2{
+    background-image: linear-gradient(#ffd0d0, #ffd0d0);
+        padding: 30px;
+        color: tomato;
+        border: 3px solid tomato;
+        border-radius: 5px;
+}
+.D-amount3{
+    background-image: linear-gradient(#dadada,#dadada);
+        padding: 30px;
+        border-radius: 5px;
+}
+.D-amount4{
+    background-image: linear-gradient(#dadada,#dadada);
+        padding: 30px;
+        border-radius: 5px;
+}
+.D-amount5{
+    background-image: linear-gradient(#dadada,#dadada);
+        padding: 30px;
+        border-radius: 5px;
+}
+.input{
+    text-align: center;
+    margin-bottom: 5%;
+    line-height: 2px;
+
+}
+.d-plan{
+    text-align: center;
+}
+.d-plan-h1{
+    font-size: 50px;
+    margin-bottom: -10px;
+    
+}
+.flexible-container2{
+        padding: 50px;
+        display: flex;
+        justify-content: space-around;
+}
+.typs-of-dplan{
+    
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 1%;
+    padding:20px;
+    background-color: #ffd0d0;
+    
+
+}
+.typs-of-dplan2{
+    
+        width: 50%;
+        margin-left: 3%;
+        margin-right: 3%;
+        padding: 20px;
+    background-color:rgb(144, 253, 217) ;
+    
+}
+.typs-of-dplan3{
+        width: 50%;
+        margin-left: 1%;
+        margin-right: 5%;
+        padding: 20px;
+        background-color: #b1b1ff;
+}
+ 
+
+
+
