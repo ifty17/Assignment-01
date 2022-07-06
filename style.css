@@ -12,9 +12,7 @@ body{
     font-weight: 700;
     background-image: linear-gradient(tomato,tomato);
     padding: 20px 40px;
-    border-radius: 10px;
-    
-    
+    border-radius: 10px;   
 }
 .top-para{
     padding-bottom: 40px;
@@ -25,6 +23,7 @@ body{
     background: url(donate-today-main/images/donation9.jpg) ;
     background-position: center;
     background-size: cover;
+    padding: 8%; 
 }
 
 .top-donation-area{
