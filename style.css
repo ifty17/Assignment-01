@@ -138,31 +138,44 @@ body{
         padding: 20px;
         background-color: #b1b1ff;
 }
-.flexible-container3{
+.flexible-container001{
     display: flex;
+    
+    padding-left: 30px;
+
+    
 }
 .half-width{
     width: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 2%;
-    margin-left: 40px;
-    margin-right: 40px;
-    
+     
 }
 .half-width img{
-    width: 110%;
-    border-radius: 10px;
-    
-    
+    width: 80%;
+    border-radius: 10px 10px 0 0 ;
+
 }
-.their-lives-P-h1{
+
+.lets-make-smile{
+    width: 70.3%;
+    text-align: center;
+    padding: 30px ;
+    border: 5px solid gray;
+    margin-top: -11px;
+    background-color: #fff1eb;
+    border-radius: 0 0 10px 10px;
+}
+.smile-h1{
     font-size: 50px;
     line-height: 30px;
 }
-.g-m-updates{
+.get-my-updates{
     text-align: center;
     padding: 5%
 }
-.g-m-d-h1{
+.get-my-h1{
     font-size: 50px;
     margin-bottom: -10px;
 }
@@ -179,7 +192,7 @@ body{
 .last-input{
     text-align: center;
     padding: 7% 15%;
-    background-color: #ffe7e7;
+    background-color: #fff1eb;
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 10%;
